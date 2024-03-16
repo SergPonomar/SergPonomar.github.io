@@ -1,8 +1,8 @@
-import { az as defineComponent, aJ as reactive, aK as resolveComponent, aE as openBlock, aF as createBlock, aG as withCtx, aL as logEvent, aM as createVNode, aN as createBaseVNode } from "./vendor-CIlITjv8.js";
-import { S as SubmitButton } from "./SubmitButton-cgIMM5D3.js";
-import { L as LogMachine } from "./LogMachine-Cmf4ow5k.js";
+import { az as defineComponent, aJ as reactive, aK as resolveComponent, aE as openBlock, aF as createBlock, aG as withCtx, aL as logEvent, aM as createVNode, aN as createBaseVNode } from "./vendor-BdWLuvDD.js";
+import { S as SubmitButton } from "./SubmitButton-BKNkIo2i.js";
+import { L as LogMachine } from "./LogMachine-CQr84Ti8.js";
 import { _ as _export_sfc } from "./_plugin-vue_export-helper-1tPrXgE0.js";
-import "./UiButton-t-tMt7Jm.js";
+import "./UiButton-DJIR-7u_.js";
 const block0 = (Comp) => {
   Comp.doc = `<h2 id="submitbutton-a-next-step-submit-form-component" tabindex="-1">SubmitButton: A next step / submit form component. <a class="header-anchor" href="#submitbutton-a-next-step-submit-form-component" aria-hidden="true">#</a></h2>
 <ul>

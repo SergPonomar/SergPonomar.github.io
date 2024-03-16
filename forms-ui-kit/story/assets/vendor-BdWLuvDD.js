@@ -26848,7 +26848,7 @@ async function logEvent(name, argument) {
       event
     });
   } else {
-    const { useEventsStore } = await __vitePreload(() => import("./events-DdP-D7wX.js"), true ? __vite__mapDeps([0,1,2]) : void 0);
+    const { useEventsStore } = await __vitePreload(() => import("./events-Ctxfeov1.js"), true ? __vite__mapDeps([0,1,2]) : void 0);
     useEventsStore().addEvent(event);
   }
 }
@@ -54385,7 +54385,7 @@ export {
 };
 function __vite__mapDeps(indexes) {
   if (!__vite__mapDeps.viteFileDeps) {
-    __vite__mapDeps.viteFileDeps = ["assets/events-DdP-D7wX.js","assets/story-9okhymJL.js","assets/GenericMountStory.vue2-D4vu9agV.js"]
+    __vite__mapDeps.viteFileDeps = ["assets/events-Ctxfeov1.js","assets/story-C_AInNAV.js","assets/GenericMountStory.vue2-D4qQNGzq.js"]
   }
   return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
 }

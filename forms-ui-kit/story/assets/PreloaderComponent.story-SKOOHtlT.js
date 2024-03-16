@@ -1,5 +1,5 @@
-import { az as defineComponent, aJ as reactive, aK as resolveComponent, aE as openBlock, aF as createBlock, aG as withCtx, aM as createVNode, aN as createBaseVNode, b7 as pushScopeId, b8 as popScopeId } from "./vendor-CIlITjv8.js";
-import { P as PreloaderComponent } from "./PreloaderComponent-B-izKuBw.js";
+import { az as defineComponent, aJ as reactive, aK as resolveComponent, aE as openBlock, aF as createBlock, aG as withCtx, aM as createVNode, aN as createBaseVNode, b7 as pushScopeId, b8 as popScopeId } from "./vendor-BdWLuvDD.js";
+import { P as PreloaderComponent } from "./PreloaderComponent-CmnBp85m.js";
 import { _ as _export_sfc } from "./_plugin-vue_export-helper-1tPrXgE0.js";
 const block0 = (Comp) => {
   Comp.doc = `<h2 id="preloadercomponent-an-ui-kit-preloader-component" tabindex="-1">PreloaderComponent: An ui kit preloader component. <a class="header-anchor" href="#preloadercomponent-an-ui-kit-preloader-component" aria-hidden="true">#</a></h2>

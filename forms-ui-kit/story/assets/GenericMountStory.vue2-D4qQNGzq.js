@@ -1,11 +1,11 @@
-import { _ as __vitePreload, Y as defineAsyncComponent, Z as createRouter, v as histoireConfig, $ as createWebHistory, a0 as createWebHashHistory, a1 as markRaw, K as reactive, d as defineComponent, r as ref, a2 as watchEffect, o as openBlock, q as createBlock, a3 as mergeProps, a4 as resolveDynamicComponent, h as createCommentVNode } from "./vendor-CIlITjv8.js";
-const Comp0 = defineAsyncComponent(() => __vitePreload(() => import("./FormComponent.story-CUdQ2haw.js"), true ? __vite__mapDeps([0,1,2,3,4,5,6,7,8]) : void 0));
-const Comp1 = defineAsyncComponent(() => __vitePreload(() => import("./PreviousButton.story-Dp1x6PGY.js"), true ? __vite__mapDeps([9,1,8,7,3,10]) : void 0));
-const Comp2 = defineAsyncComponent(() => __vitePreload(() => import("./SubmitButton.story-BzSdBBof.js"), true ? __vite__mapDeps([11,1,6,7,3,10]) : void 0));
-const Comp3 = defineAsyncComponent(() => __vitePreload(() => import("./TextInput.story-DQeLW8dZ.js"), true ? __vite__mapDeps([12,1,4,5,3]) : void 0));
-const Comp4 = defineAsyncComponent(() => __vitePreload(() => import("./PreloaderComponent.story-BL6IX9BG.js"), true ? __vite__mapDeps([13,1,2,3]) : void 0));
-const Comp5 = defineAsyncComponent(() => __vitePreload(() => import("./UiButton.story-DLzmgeO6.js"), true ? __vite__mapDeps([14,1,7,3]) : void 0));
-const Comp6 = defineAsyncComponent(() => __vitePreload(() => import("./UiInputContainer.story-CGf_f4dY.js"), true ? __vite__mapDeps([15,1,5,3]) : void 0));
+import { _ as __vitePreload, Y as defineAsyncComponent, Z as createRouter, v as histoireConfig, $ as createWebHistory, a0 as createWebHashHistory, a1 as markRaw, K as reactive, d as defineComponent, r as ref, a2 as watchEffect, o as openBlock, q as createBlock, a3 as mergeProps, a4 as resolveDynamicComponent, h as createCommentVNode } from "./vendor-BdWLuvDD.js";
+const Comp0 = defineAsyncComponent(() => __vitePreload(() => import("./FormComponent.story-BAFR2onN.js"), true ? __vite__mapDeps([0,1,2,3,4,5,6,7,8]) : void 0));
+const Comp1 = defineAsyncComponent(() => __vitePreload(() => import("./PreviousButton.story-DTdTgn9C.js"), true ? __vite__mapDeps([9,1,8,7,3,10]) : void 0));
+const Comp2 = defineAsyncComponent(() => __vitePreload(() => import("./SubmitButton.story-B6-Lp58e.js"), true ? __vite__mapDeps([11,1,6,7,3,10]) : void 0));
+const Comp3 = defineAsyncComponent(() => __vitePreload(() => import("./TextInput.story-B2znzSEd.js"), true ? __vite__mapDeps([12,1,4,5,3]) : void 0));
+const Comp4 = defineAsyncComponent(() => __vitePreload(() => import("./PreloaderComponent.story-SKOOHtlT.js"), true ? __vite__mapDeps([13,1,2,3]) : void 0));
+const Comp5 = defineAsyncComponent(() => __vitePreload(() => import("./UiButton.story-Cl5cOHBi.js"), true ? __vite__mapDeps([14,1,7,3]) : void 0));
+const Comp6 = defineAsyncComponent(() => __vitePreload(() => import("./UiInputContainer.story-CQNsIibh.js"), true ? __vite__mapDeps([15,1,5,3]) : void 0));
 let files = [
   { "id": "src-components-form-formcomponent-story-vue", "path": ["Components", "Form", "FormComponent"], "filePath": "src/components/form/FormComponent.story.vue", "story": { "id": "src-components-form-formcomponent-story-vue", "title": "FormComponent", "layout": { "type": "single", "iframe": true }, "docsOnly": false, "variants": [{ "id": "src-components-form-formcomponent-story-vue-0", "title": "Single step form" }, { "id": "src-components-form-formcomponent-story-vue-1", "title": "Multistep form" }] }, "supportPluginId": "vue3", "index": 0, component: Comp0, source: () => __vitePreload(() => import("./__resolved__virtual_story-source_src-components-form-formcomponent-story-vue-BfGRERpV.js"), true ? __vite__mapDeps([]) : void 0) },
   { "id": "src-components-form-previousbutton-story-vue", "path": ["Components", "Form", "PreviousButton"], "filePath": "src/components/form/PreviousButton.story.vue", "story": { "id": "src-components-form-previousbutton-story-vue", "title": "PreviousButton", "layout": { "type": "single", "iframe": true }, "docsOnly": false, "variants": [{ "id": "src-components-form-previousbutton-story-vue-0", "title": "Playground" }] }, "supportPluginId": "vue3", "index": 1, component: Comp1, source: () => __vitePreload(() => import("./__resolved__virtual_story-source_src-components-form-previousbutton-story-vue-TBcUDqHX.js"), true ? __vite__mapDeps([]) : void 0) },
@@ -16,7 +16,7 @@ let files = [
   { "id": "src-components-ui-kit-uiinputcontainer-story-vue", "path": ["Ui kit", "UiInputContainer"], "filePath": "src/components/ui-kit/UiInputContainer.story.vue", "story": { "id": "src-components-ui-kit-uiinputcontainer-story-vue", "title": "UiInputContainer", "layout": { "type": "single", "iframe": true }, "docsOnly": false, "variants": [{ "id": "src-components-ui-kit-uiinputcontainer-story-vue-0", "title": "Playground" }] }, "supportPluginId": "vue3", "index": 6, component: Comp6, source: () => __vitePreload(() => import("./__resolved__virtual_story-source_src-components-ui-kit-uiinputcontainer-story-vue-Pmsf7YX6.js"), true ? __vite__mapDeps([]) : void 0) }
 ];
 let tree = [{ "title": "Components", "children": [{ "title": "Form", "children": [{ "title": "FormComponent", "index": 0 }, { "title": "PreviousButton", "index": 1 }, { "title": "SubmitButton", "index": 2 }, { "title": "TextInput", "index": 3 }] }] }, { "title": "Ui kit", "children": [{ "title": "PreloaderComponent", "index": 4 }, { "title": "UiButton", "index": 5 }, { "title": "UiInputContainer", "index": 6 }] }];
-const base = "/forms-ui-kit/story/";
+const base = "/forms-ui-kit/story";
 function createRouterHistory() {
   switch (histoireConfig.routerMode) {
     case "hash":
@@ -32,12 +32,12 @@ const router = createRouter({
     {
       path: "/",
       name: "home",
-      component: () => __vitePreload(() => import("./HomeView.vue-DSpDkZ7-.js"), true ? __vite__mapDeps([16,1,17]) : void 0)
+      component: () => __vitePreload(() => import("./HomeView.vue-CamdAqEX.js"), true ? __vite__mapDeps([16,1,17]) : void 0)
     },
     {
       path: "/story/:storyId",
       name: "story",
-      component: () => __vitePreload(() => import("./StoryView.vue-BP3OsQ7e.js"), true ? __vite__mapDeps([18,1,17,19,20,21,22]) : void 0)
+      component: () => __vitePreload(() => import("./StoryView.vue-lM33QYZg.js"), true ? __vite__mapDeps([18,1,17,19,20,21,22]) : void 0)
     }
   ]
 });
@@ -106,8 +106,8 @@ function mapVariant(variant, existingVariant) {
   return result;
 }
 const clientSupportPlugins = {
-  "vanilla": () => __vitePreload(() => import("./vendor-CIlITjv8.js").then((n) => n.bh), true ? __vite__mapDeps([]) : void 0),
-  "vue3": () => __vitePreload(() => import("./vendor-CIlITjv8.js").then((n) => n.bi), true ? __vite__mapDeps([]) : void 0)
+  "vanilla": () => __vitePreload(() => import("./vendor-BdWLuvDD.js").then((n) => n.bh), true ? __vite__mapDeps([]) : void 0),
+  "vue3": () => __vitePreload(() => import("./vendor-BdWLuvDD.js").then((n) => n.bi), true ? __vite__mapDeps([]) : void 0)
 };
 const __default__ = {
   inheritAttrs: false
@@ -149,7 +149,7 @@ export {
 };
 function __vite__mapDeps(indexes) {
   if (!__vite__mapDeps.viteFileDeps) {
-    __vite__mapDeps.viteFileDeps = ["assets/FormComponent.story-CUdQ2haw.js","assets/vendor-CIlITjv8.js","assets/PreloaderComponent-B-izKuBw.js","assets/_plugin-vue_export-helper-1tPrXgE0.js","assets/TextInput-Ddz4U_lm.js","assets/UiInputContainer-CpS-5xZv.js","assets/SubmitButton-cgIMM5D3.js","assets/UiButton-t-tMt7Jm.js","assets/PreviousButton-BKtyRqy6.js","assets/PreviousButton.story-Dp1x6PGY.js","assets/LogMachine-Cmf4ow5k.js","assets/SubmitButton.story-BzSdBBof.js","assets/TextInput.story-DQeLW8dZ.js","assets/PreloaderComponent.story-BL6IX9BG.js","assets/UiButton.story-DLzmgeO6.js","assets/UiInputContainer.story-CGf_f4dY.js","assets/HomeView.vue-DSpDkZ7-.js","assets/story-9okhymJL.js","assets/StoryView.vue-BP3OsQ7e.js","assets/MobileOverlay.vue2-BXIt3fQH.js","assets/BaseEmpty.vue-C1ieJfLX.js","assets/state-DPs8IgYb.js","assets/events-DdP-D7wX.js"]
+    __vite__mapDeps.viteFileDeps = ["assets/FormComponent.story-BAFR2onN.js","assets/vendor-BdWLuvDD.js","assets/PreloaderComponent-CmnBp85m.js","assets/_plugin-vue_export-helper-1tPrXgE0.js","assets/TextInput-C4P0ndJm.js","assets/UiInputContainer-DgXUscUZ.js","assets/SubmitButton-BKNkIo2i.js","assets/UiButton-DJIR-7u_.js","assets/PreviousButton-BI9kU5_B.js","assets/PreviousButton.story-DTdTgn9C.js","assets/LogMachine-CQr84Ti8.js","assets/SubmitButton.story-B6-Lp58e.js","assets/TextInput.story-B2znzSEd.js","assets/PreloaderComponent.story-SKOOHtlT.js","assets/UiButton.story-Cl5cOHBi.js","assets/UiInputContainer.story-CQNsIibh.js","assets/HomeView.vue-CamdAqEX.js","assets/story-C_AInNAV.js","assets/StoryView.vue-lM33QYZg.js","assets/MobileOverlay.vue2-CKxWQLto.js","assets/BaseEmpty.vue-DT32Xigb.js","assets/state-D4qKur-u.js","assets/events-Ctxfeov1.js"]
   }
   return indexes.map((i) => __vite__mapDeps.viteFileDeps[i])
 }

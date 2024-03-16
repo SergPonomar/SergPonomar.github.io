@@ -1,5 +1,5 @@
-import { az as defineComponent, aJ as reactive, aK as resolveComponent, aE as openBlock, aF as createBlock, aG as withCtx, aM as createVNode, aN as createBaseVNode, aP as createElementBlock, ba as renderList, bb as Fragment, bc as normalizeStyle } from "./vendor-CIlITjv8.js";
-import { U as UiButton } from "./UiButton-t-tMt7Jm.js";
+import { az as defineComponent, aJ as reactive, aK as resolveComponent, aE as openBlock, aF as createBlock, aG as withCtx, aM as createVNode, aN as createBaseVNode, aP as createElementBlock, ba as renderList, bb as Fragment, bc as normalizeStyle } from "./vendor-BdWLuvDD.js";
+import { U as UiButton } from "./UiButton-DJIR-7u_.js";
 import { _ as _export_sfc } from "./_plugin-vue_export-helper-1tPrXgE0.js";
 const block0 = (Comp) => {
   Comp.doc = `<h2 id="uibutton-an-ui-kit-button-component" tabindex="-1">UiButton: An ui kit button component. <a class="header-anchor" href="#uibutton-an-ui-kit-button-component" aria-hidden="true">#</a></h2>
