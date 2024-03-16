@@ -1,0 +1,178 @@
+{
+  "stories": [
+    {
+      "id": "src-components-form-formcomponent-story-vue",
+      "title": "FormComponent",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-components-form-formcomponent-story-vue-0",
+          "title": "Single step form"
+        },
+        {
+          "id": "src-components-form-formcomponent-story-vue-1",
+          "title": "Multistep form"
+        }
+      ],
+      "relativePath": "src/components/form/FormComponent.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Components",
+        "Form",
+        "FormComponent"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-components-form-previousbutton-story-vue",
+      "title": "PreviousButton",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-components-form-previousbutton-story-vue-0",
+          "title": "Playground"
+        }
+      ],
+      "relativePath": "src/components/form/PreviousButton.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Components",
+        "Form",
+        "PreviousButton"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-components-form-submitbutton-story-vue",
+      "title": "SubmitButton",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-components-form-submitbutton-story-vue-0",
+          "title": "Playground"
+        }
+      ],
+      "relativePath": "src/components/form/SubmitButton.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Components",
+        "Form",
+        "SubmitButton"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-components-form-textinput-story-vue",
+      "title": "TextInput",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-components-form-textinput-story-vue-0",
+          "title": "Playground"
+        }
+      ],
+      "relativePath": "src/components/form/TextInput.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Components",
+        "Form",
+        "TextInput"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-components-ui-kit-preloadercomponent-story-vue",
+      "title": "PreloaderComponent",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-components-ui-kit-preloadercomponent-story-vue-0",
+          "title": "Playground"
+        }
+      ],
+      "relativePath": "src/components/ui-kit/PreloaderComponent.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Ui kit",
+        "PreloaderComponent"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-components-ui-kit-uibutton-story-vue",
+      "title": "UiButton",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-components-ui-kit-uibutton-story-vue-0",
+          "title": "Sizes & styles"
+        },
+        {
+          "id": "src-components-ui-kit-uibutton-story-vue-1",
+          "title": "Playground"
+        }
+      ],
+      "relativePath": "src/components/ui-kit/UiButton.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Ui kit",
+        "UiButton"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    },
+    {
+      "id": "src-components-ui-kit-uiinputcontainer-story-vue",
+      "title": "UiInputContainer",
+      "layout": {
+        "type": "single",
+        "iframe": true
+      },
+      "docsOnly": false,
+      "variants": [
+        {
+          "id": "src-components-ui-kit-uiinputcontainer-story-vue-0",
+          "title": "Playground"
+        }
+      ],
+      "relativePath": "src/components/ui-kit/UiInputContainer.story.vue",
+      "supportPluginId": "vue3",
+      "treePath": [
+        "Ui kit",
+        "UiInputContainer"
+      ],
+      "virtual": false,
+      "markdownFile": null
+    }
+  ],
+  "markdownFiles": []
+}
